@@ -3,8 +3,8 @@ An algorithm for reconstructing a hand captured by the camera on a 3d environmen
 
 Modules needed:
 
-        - Mediapipe
-        - OpenCV
-        - Matplotlib
-        - Math
+    - Mediapipe
+    - OpenCV
+    - Matplotlib
+    - Math
 
